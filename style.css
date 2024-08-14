@@ -1,5 +1,23 @@
-p {
+h1 {
     background-color: #FD8F62;
     width: 300px;
     text-align: center
   }
+
+a {
+    text-decoration: none;
+    outline: none;
+}
+
+/* .LZButton{
+    background:url(./images/Lemon_zest_cookie_toa_illustration.png) no-repeat;
+    cursor:pointer;
+    border:none;
+    width:100px;
+    height:100px;
+}
+
+.LZButton:active
+{   
+    background:url(./images/Lemon_zest_cookie_toa_illustration.png) no-repeat;
+} */
